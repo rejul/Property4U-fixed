@@ -93,4 +93,11 @@ Some Screenshots :
   - Open **Web.Config** and replace **connectionString="*”** with your hosting provider one. 
 
 
-###still on fixing ..........
+###Updates
+
+  -On bugs has been partially fixed.
+  -Minor changes are done to atleast run
+  
+ ##me
+ I am just a noob one to ASP.NET  fixed due to sheer frustration.
+  
