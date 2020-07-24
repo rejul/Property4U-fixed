@@ -97,9 +97,9 @@ Some Screenshots :
 
 ###Updates
 
-  -On bugs has been partially fixed.
-  -Minor changes are done to atleast run
+  -Some bugs has been partially fixed.
+  -Minor changes are done (Hurray- atleast runs)
   
  ##me
- I am just a noob one to ASP.NET  fixed due to sheer frustration.
+ I am just a noob to ASP.NET,fixed due to sheer frustration.
   
