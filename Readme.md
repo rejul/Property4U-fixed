@@ -1,14 +1,14 @@
-# Property4U
+# Property4U (WORKING ONE)
 Property4U is an Open Source Enterprise Real Estate 2.0 solution. 
 
 ##Introduction:
 Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equipped with Buying, Selling, Renting and Bidding features. It also provides Developer APIs with complete documentation. 
 
 ##System Requirements:
-  - Visual Studio 2013 Update 2
-  - Microsoft .NET Framework 4.5
+  - Visual Studio 2019
+  - Microsoft .NET Framework 4.5 or later
   - IIS 7 or higher
-  - Microsoft® SQL Server 2012 Express
+  - Microsoft® SQL Server 2012 Express or later
 
 ##System Specifications:
   - ASP.NET MVC 5
@@ -53,22 +53,6 @@ Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equi
 - mfahim
 - Waheeb Islam
 
-##Credits
-- https://www.google.com.pk/
-- http://www.asp.net/mvc/overview/getting-started
-- http://stackoverflow.com
-- http://www.binarytheme.com/asp-net-free-admin-template-siminta/
-- http://shapebootstrap.net/item/e-shopper-best-free-ecommerce-html-template/
-- http://getbootstrap.com/
-- http://fortawesome.github.io/Font-Awesome/
-- https://github.com/TroyGoode/PagedList
-- http://www.newtonsoft.com/json
-- http://jquery.com/
-- http://jqueryui.com/
-- http://sachinchoolur.github.io/lightGallery/
-- http://knockoutjs.com/
-- http://www.quartz-scheduler.net/
-- http://dillinger.io/
 
 ##FAQ’s
 
@@ -95,3 +79,6 @@ Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equi
   - Create new **MSSQL Database**.
   - Upload and Attach **Property4U-2-1-beta.mdf** database file located in project **App_Data folder** to newly created MSSQL Database.
   - Open **Web.Config** and replace **connectionString="*”** with your hosting provider one. 
+
+
+###still on fixing ..........
