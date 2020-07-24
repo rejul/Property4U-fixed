@@ -22,14 +22,14 @@ Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equi
 
 ##Demo:
   - FrontEnd: http://property4u.somee.com/
-  - BackEnd: http://property4u.somee.com/Account/Login
+ 
 
 #Getting Started
   - Download Property4U source code.
-  - Unzip Property4U and copy it the Projects folder of Visual Studio 2013.
+  - Unzip Property4U and copy it the Projects folder of Visual Studio 2019.
   
     ###Build Project
-- Open Project in Visual Studio 2013.
+- Open Project in Visual Studio 2019.
 - Open **ControlDesk > Index.cshtml** file under Views folder of project solution.
 - Build project **Build > Build Solution** or **Ctrl+Shift+B**.
 - Go to **Debug** menu and select **Start Debugging** or **F5**.
