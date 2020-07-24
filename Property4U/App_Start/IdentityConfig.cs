@@ -115,17 +115,17 @@ namespace IdentitySample.Models
         public static void InitializeIdentityForEF(ApplicationDbContext db) {
         //    var userManager = HttpContext.Current.GetOwinContext().GetUserManager<ApplicationUserManager>();
         //    var roleManager = HttpContext.Current.GetOwinContext().Get<ApplicationRoleManager>();
-        //    const string name = "admin@p4u.com.pk";
+        //    const string name = "rejul.reghu@gmail.com";
         //    const string password = "Admin@123456";
         //    const string roleName = "Admin";
              
         //    /* Extending User Attributes for Property4U */
-        //    const string firstName = "Ahmed";
-        //    const string lastName = "Osman";
-        //    const string address = "Lahore, Pakistan";
-        //    const string city = "Lahore";
-        //    const string state = "Punjab";
-        //    const string postalCode = "54000";
+        //    const string firstName = "Rejul";
+        //    const string lastName = "Jazz";
+        //    const string address = "Kerala,India";
+        //    const string city = "Unknown";
+        //    const string state = "Uknown";
+        //    const string postalCode = "000000";
 
         //    //Create Role Admin if it does not exist
         //    var role = roleManager.FindByName(roleName);
