@@ -37,7 +37,7 @@ Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equi
 - Enter **Admin** Username and Password from **Passwords.txt** provided in project source.
 - After successful Login, system takes you the **Configuration** page.
 
-    ###Load Sample Data
+ 	~~   ###Load Sample Data
 - Choose **Load** from **Configuration** **Core > Sample Data**.
 - Proceed by accepting the "Alert Message" regarding database reset and wait until successful **Data Load** notification appears
 - Logout from system for applying changes.
@@ -45,7 +45,7 @@ Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equi
 
 ##Security Provisions:
 - **Change** default usernames and passwords provided with the **SAMPLE DATA**.
-- Remember to delete **Sample_Data.bak** from **Content > System > Sample_Data.bak** after loading samples.
+- Remember to delete **Sample_Data.bak** from **Content > System > Sample_Data.bak** after loading samples.	~~
 
 
 ##Developers
