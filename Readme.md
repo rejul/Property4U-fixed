@@ -5,8 +5,8 @@ Property4U is an Open Source Enterprise Real Estate 2.0 solution.
 Property4U is an Open Source Enterprise Real Estate 2.0 solution completely equipped with Buying, Selling, Renting and Bidding features. It also provides Developer APIs with complete documentation. 
 
 ##System Requirements:
-  - Visual Studio 2013 Update 2
-  - Microsoft .NET Framework 4.5
+  - Visual Studio 2019
+  - Microsoft .NET Framework 4.5 or later
   - IIS 7 or higher
   - Microsoft® SQL Server 2012 Express
 
