@@ -1,4 +1,4 @@
-# Property4U (WORKING ONE)
+# Property4U
 Property4U is an Open Source Enterprise Real Estate 2.0 solution. 
 
 ##Introduction:
