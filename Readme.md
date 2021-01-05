@@ -99,7 +99,5 @@ Some Screenshots :
 
   -Some bugs has been partially fixed.
   -Minor changes are done (Hurray- atleast runs)
-  
- ##me
- I am just a noob to ASP.NET,fixed due to sheer frustration.
+
   
